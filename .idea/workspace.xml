@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0947393-406d-4879-8529-8af173efd176" name="Changes" comment="" />
+    <list default="true" id="e0947393-406d-4879-8529-8af173efd176" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Avengers-Endgame.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Peli1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Peli2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Peli3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avatar agua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avatar.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/estiloPelicula.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p_avengersendgame_19751_e14a0104.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contacto.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2dMfWUfEcBSDnj4LmGwQda0wv8r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,13 +42,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documentos\Ejercicio5Ironhack" />
+      <recent name="D:\Documentos\Ejercicio5Ironhack\css" />
+      <recent name="D:\Documentos\Ejercicio5Ironhack\images" />
+      <recent name="D:\Documentos\Ejercicio5Ironhack\html" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +68,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709822901801</updated>
+      <workItem from="1709822903313" duration="532000" />
+      <workItem from="1709823452062" duration="2003000" />
+      <workItem from="1709825477278" duration="611000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
