@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0947393-406d-4879-8529-8af173efd176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Avengers-Endgame.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Peli1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Peli2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Peli3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avatar agua.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avatar.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contacto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/estiloPelicula.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p_avengersendgame_19751_e14a0104.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gracias.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contacto.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contacto.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contacto.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/estiloPelicula.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estiloPelicula.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -70,11 +63,23 @@
       <updated>1709822901801</updated>
       <workItem from="1709822903313" duration="532000" />
       <workItem from="1709823452062" duration="2003000" />
-      <workItem from="1709825477278" duration="611000" />
+      <workItem from="1709825477278" duration="1627000" />
     </task>
+    <task id="LOCAL-00001" summary="Trabajo casi terminado terminar movil y comentario falta">
+      <created>1709826216583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709826216583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Trabajo casi terminado terminar movil y comentario falta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabajo casi terminado terminar movil y comentario falta" />
   </component>
 </project>
